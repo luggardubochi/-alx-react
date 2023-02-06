@@ -1,5 +1,5 @@
 {
-  "name": "task_4",
+  "name": "task_0",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -35,7 +35,7 @@
     "react-dom": "^18.2.0",
     "web-vitals": "^3.1.1",
     "webpack-dev-server": "^4.4.0"
-  }
+  },
   "jest": {
     "setupFiles": [
       "<rootDir>/config/setupTests.js"
